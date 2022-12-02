@@ -13,9 +13,9 @@
 				"Mental",
 				"Supernatural"
 			],
-			"base_points": 15,
+			"base_points": 10,
 			"calc": {
-				"points": 15
+				"points": 10
 			}
 		},
 		{
@@ -28,9 +28,9 @@
 				"Mental",
 				"Supernatural"
 			],
-			"base_points": 15,
+			"base_points": 25,
 			"calc": {
-				"points": 15
+				"points": 25
 			}
 		}
 	]

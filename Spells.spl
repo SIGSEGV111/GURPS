@@ -3,7 +3,7 @@
 	"version": 4,
 	"rows": [
 		{
-			"id": "584820f7-4a22-4d3d-91df-b3bdfd874220",
+			"id": "efcb2023-9f47-45df-9503-71d1b8cc23b1",
 			"type": "spell",
 			"name": "Rauchwolke (Schamane)",
 			"reference": "Simon",
@@ -14,7 +14,7 @@
 				"Schwarzpulver",
 				"Shaman"
 			],
-			"difficulty": "iq/h",
+			"difficulty": "iq/a",
 			"college": [
 				"Shaman"
 			],
@@ -40,6 +40,28 @@
 					}
 				}
 			]
+		},
+		{
+			"id": "2c75d36f-733f-4e8c-bafc-aabd0f183910",
+			"type": "spell",
+			"name": "Feuerball",
+			"notes": "Der Schamane formt aus Wachs und Blut, panniert mit Asche, einen Ball, den er dann in seiner Hand hält und mit einem Zauberwort in Brand setzt. Einmal gezündet brennt der Ball etwa eine Minute lang. Die Flammen schaden dem Schamanen nicht. Der Ball kann dann geworfen oder platziert werden. Bei Einschlag zerbirst er in einer feurigen Explosion, die 1d burn ex pro Manapunkt zufügt. Das Areal der Explosion [B414] wird in Flammen gehüllt, die für eine weitere Runden pro Manapunkt brennen und 1d burn Schaden zufügen. Platziert, oder in der Hand einer fremden Person, fügt der Ball seiner Umgebung 1d-2 burn Schaden pro Runde zu. Die Bälle können vorbereitet werden und lassen sich einzeln verpackt, z.B. in Platikbeuteln oder kleinen Säcken, gut transportieren und werfen. Die Herstellung dauert etwa 1 Minute pro Ball. Materialkosten $2/1d. Die Manakosten müssen beim Entzünden bezahlt werden.\n\nDer Ball kann auch ungezündet plaziert werden und dann nachträglich zur Explosion gebracht werden. Dazu muss der Mischung Mausefell hinzugefügt werden. Sobald der Ball das Zauberwort hört (Per 12) explodiert er. Ein so platzierter Ball kann mit Wasser unschädlich gemacht werden. Der Ball hört nur auf die Stimme des Schamanen, der ihn erschaffen hat. Die Materialkosten erhöhen sich dann um $2.\n\nWenn der Schamane zusätzlich Nägel, Steinsplitter oder ähnliche Dinge in den Ball mischt, erzeugt dieser bei der Explosion zusätzlich Schrapnel (Schaden: 1d cut; Reichweite: 5m; Skill: 15) [B414]. Die Materialkosten erhöhen sich dann um $2. Die Manakosten erhöhen sich um 1.",
+			"tags": [
+				"Shaman",
+				"Wachs",
+				"Asche",
+				"Blut"
+			],
+			"difficulty": "iq/a",
+			"college": [
+				"Shaman"
+			],
+			"power_source": "Arcane",
+			"spell_class": "Projectile",
+			"casting_cost": "1mp/1d",
+			"casting_time": "1 sec",
+			"duration": "Instant",
+			"points": 1
 		}
 	]
 }
